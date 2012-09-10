@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="isbn" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Oral Literature in Africa</dc:title>
+<dc:creator>Ruth Finnegan</dc:creator>
+<dc:publisher>Open Book Publishers CIC Ltd.</dc:publisher>
+<dc:rights>Creative Commons 3.0</dc:rights>
+<dc:identifier id="isbn">9781906924737</dc:identifier>
+<dc:language>en</dc:language>
+<meta name="cover" content="cover-image"/></metadata>
+<manifest>
+<!--fonts-->
+<item id="font1" href="fonts/DejaVuSerif.ttf" media-type="application/x-font-ttf"/>
+<item id="stylesheet" href="9781906924737.css" media-type="text/css"/>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="page-template" href="page-template.xpgt" media-type="application/vnd.adobe-page-template+xml"/>
+<item href="pagemap.xml" id="ncxpagemap" media-type="application/oebps-page-map+xml"/>
+<item id="cover" href="cover.html" media-type="application/xhtml+xml"/>
+<item id="body01" href="01_Halftitle.html" media-type="application/xhtml+xml"/>
+<item id="body02" href="02_title.html" media-type="application/xhtml+xml"/>
+<item id="body03" href="03_copyright.html" media-type="application/xhtml+xml"/>
+<item id="body04" href="04_dedication.html" media-type="application/xhtml+xml"/>
+<item id="body05" href="05_authornote.html" media-type="application/xhtml+xml"/>
+<item id="body06" href="06_toc.html" media-type="application/xhtml+xml"/>
+<item id="body07" href="07_Resource.html" media-type="application/xhtml+xml"/>
+<item id="body08" href="08_Illustrations.html" media-type="application/xhtml+xml"/>
+<item id="body09" href="09_Foreword.html" media-type="application/xhtml+xml"/>
+<item id="body10" href="10_Preface.html" media-type="application/xhtml+xml"/>
+<item id="body11" href="11_Preface_2.html" media-type="application/xhtml+xml"/>
+<item id="body12" href="12_acknowledgement.html" media-type="application/xhtml+xml"/>
+<item id="body13" href="07_Acknowledgements_Addendum.html" media-type="application/xhtml+xml"/>
+<item id="body14" href="13_Abbreviations.html" media-type="application/xhtml+xml"/>
+<item id="body15" href="14_note.html" media-type="application/xhtml+xml"/>
+<item id="body16" href="15_part01.html" media-type="application/xhtml+xml"/>
+<item id="body17" href="16_chapter01.html" media-type="application/xhtml+xml"/>
+<item id="body18" href="17_chapter02.html" media-type="application/xhtml+xml"/>
+<item id="body19" href="18_chapter03.html" media-type="application/xhtml+xml"/>
+<item id="body20" href="19_part02.html" media-type="application/xhtml+xml"/>
+<item id="body21" href="20_chapter04.html" media-type="application/xhtml+xml"/>
+<item id="body22" href="21_chapter05.html" media-type="application/xhtml+xml"/>
+<item id="body23" href="22_chapter06.html" media-type="application/xhtml+xml"/>
+<item id="body24" href="23_chapter07.html" media-type="application/xhtml+xml"/>
+<item id="body25" href="24_chapter08.html" media-type="application/xhtml+xml"/>
+<item id="body26" href="25_chapter09.html" media-type="application/xhtml+xml"/>
+<item id="body27" href="26_chapter10.html" media-type="application/xhtml+xml"/>
+<item id="body28" href="27_chapter11.html" media-type="application/xhtml+xml"/>
+<item id="body29" href="28_part03.html" media-type="application/xhtml+xml"/>
+<item id="body30" href="29_chapter12.html" media-type="application/xhtml+xml"/>
+<item id="body31" href="30_chapter13.html" media-type="application/xhtml+xml"/>
+<item id="body32" href="31_chapter14.html" media-type="application/xhtml+xml"/>
+<item id="body33" href="32_chapter15.html" media-type="application/xhtml+xml"/>
+<item id="body34" href="33_chapter16.html" media-type="application/xhtml+xml"/>
+<item id="body35" href="34_part04.html" media-type="application/xhtml+xml"/>
+<item id="body36" href="35_chapter17.html" media-type="application/xhtml+xml"/>
+<item id="body37" href="36_chapter18.html" media-type="application/xhtml+xml"/>
+<item id="body38" href="37_conclusion.html" media-type="application/xhtml+xml"/>
+<item id="body39" href="38_source.html" media-type="application/xhtml+xml"/>
+<item id="body40" href="39_Bibliography.html" media-type="application/xhtml+xml"/>
+<item id="body41" href="40_Index.html" media-type="application/xhtml+xml"/>
+<item id="body42" href="backma.html" media-type="application/xhtml+xml"/>
+<item id="backcover" href="backcover.html" media-type="application/xhtml+xml"/>
+<item href="images/cover.jpg" id="cover-image" media-type="image/jpeg"/>
+<item href="images/backcover.jpg" id="backcover-image" media-type="image/jpeg"/>
+<item id="img01" href="images/bm10-fig1.jpg" media-type="image/jpeg"/>
+<item id="logo" href="images/img_logo.jpg" media-type="image/jpeg"/>
+<item id="img02" href="images/bm11-fig1.jpg" media-type="image/jpeg"/>
+<item id="img03" href="images/bm20-fig2.jpg" media-type="image/jpeg"/>
+<item id="img04" href="images/c01-fig1.jpg" media-type="image/jpeg"/>
+<item id="img05" href="images/c01-fig2.jpg" media-type="image/jpeg"/>
+<item id="img06" href="images/c01-fig3.jpg" media-type="image/jpeg"/>
+<item id="img07" href="images/c02-fig1.jpg" media-type="image/jpeg"/>
+<item id="img08" href="images/c02-fig2.jpg" media-type="image/jpeg"/>
+<item id="img09" href="images/c03-fig1.jpg" media-type="image/jpeg"/>
+<item id="img10" href="images/c03-fig2.jpg" media-type="image/jpeg"/>
+<item id="img11" href="images/c04-fig10.jpg" media-type="image/jpeg"/>
+<item id="img12" href="images/c05-fig11.jpg" media-type="image/jpeg"/>
+<item id="img13" href="images/c06-fig12.jpg" media-type="image/jpeg"/>
+<item id="img14" href="images/c07-fig13.jpg" media-type="image/jpeg"/>
+<item id="img15" href="images/c08-fig14.jpg" media-type="image/jpeg"/>
+<item id="img16" href="images/c08-fig15.jpg" media-type="image/jpeg"/>
+<item id="img17" href="images/c08-fig16.jpg" media-type="image/jpeg"/>
+<item id="img18" href="images/c08-fig17.jpg" media-type="image/jpeg"/>
+<item id="img19" href="images/c10-fig1.jpg" media-type="image/jpeg"/>
+<item id="img20" href="images/c10-fig2.jpg" media-type="image/jpeg"/>
+<item id="img21" href="images/c10-fig3.jpg" media-type="image/jpeg"/>
+<item id="img22" href="images/c13-fig1.jpg" media-type="image/jpeg"/>
+<item id="img23" href="images/c16-fig1.jpg" media-type="image/jpeg"/>
+<item id="img24" href="images/c18-fig1.jpg" media-type="image/jpeg"/>
+<item id="img26" href="images/fig3.jpg" media-type="image/jpeg"/>
+<item id="img27" href="images/fm01-fig1.jpg" media-type="image/jpeg"/>
+<item id="img28" href="images/fm02-fig1.jpg" media-type="image/jpeg"/>
+<item id="img29" href="images/fm03-fig1.jpg" media-type="image/jpeg"/>
+<item id="img30" href="images/fm04-fig1.jpg" media-type="image/jpeg"/>
+<item id="img31" href="images/fm06-fig1.jpg" media-type="image/jpeg"/>
+<item id="img32" href="images/img_box.jpg" media-type="image/jpeg"/>
+<item id="img33" href="images/img_e.jpg" media-type="image/jpeg"/>
+<item id="img34" href="images/pg_372.jpg" media-type="image/jpeg"/>
+<item id="img35" href="images/pg_372a.jpg" media-type="image/jpeg"/>
+<item id="img36" href="images/pg_378.jpg" media-type="image/jpeg"/>
+<item id="img37" href="images/pg_557.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine page-map="ncxpagemap" toc="ncx">
+<itemref idref="cover" linear="yes"/>
+<itemref idref="body01" linear="yes"/>
+<itemref idref="body02" linear="yes"/>
+<itemref idref="body03" linear="yes"/>
+<itemref idref="body04" linear="yes"/>
+<itemref idref="body05" linear="yes"/>
+<itemref idref="body06" linear="yes"/>
+<itemref idref="body07" linear="yes"/>
+<itemref idref="body08" linear="yes"/>
+<itemref idref="body09" linear="yes"/>
+<itemref idref="body10" linear="yes"/>
+<itemref idref="body11" linear="yes"/>
+<itemref idref="body12" linear="yes"/>
+<itemref idref="body13" linear="yes"/>
+<itemref idref="body14" linear="yes"/>
+<itemref idref="body15" linear="yes"/>
+<itemref idref="body16" linear="yes"/>
+<itemref idref="body17" linear="yes"/>
+<itemref idref="body18" linear="yes"/>
+<itemref idref="body19" linear="yes"/>
+<itemref idref="body20" linear="yes"/>
+<itemref idref="body21" linear="yes"/>
+<itemref idref="body22" linear="yes"/>
+<itemref idref="body23" linear="yes"/>
+<itemref idref="body24" linear="yes"/>
+<itemref idref="body25" linear="yes"/>
+<itemref idref="body26" linear="yes"/>
+<itemref idref="body27" linear="yes"/>
+<itemref idref="body28" linear="yes"/>
+<itemref idref="body29" linear="yes"/>
+<itemref idref="body30" linear="yes"/>
+<itemref idref="body31" linear="yes"/>
+<itemref idref="body32" linear="yes"/>
+<itemref idref="body33" linear="yes"/>
+<itemref idref="body34" linear="yes"/>
+<itemref idref="body35" linear="yes"/>
+<itemref idref="body36" linear="yes"/>
+<itemref idref="body37" linear="yes"/>
+<itemref idref="body38" linear="yes"/>
+<itemref idref="body39" linear="yes"/>
+<itemref idref="body40" linear="yes"/>
+<itemref idref="body41" linear="yes"/>
+<itemref idref="body42" linear="yes"/>
+<itemref idref="backcover" linear="yes"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover Page" href="cover.html"/>
+<reference type="title" title="Title Page" href="02_title.html"/>
+<reference type="toc" title="Contents" href="06_toc.html"/>
+</guide>
+</package>

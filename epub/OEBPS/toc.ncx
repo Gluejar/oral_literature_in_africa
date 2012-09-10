@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta name="dtb:uid" content="9781906924737"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="577"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Oral Literature in Africa</text></docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Front Cover</text></navLabel><content src="cover.html"/></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>Half-title Page</text></navLabel><content src="01_Halftitle.html"/></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Title Page</text></navLabel><content src="02_title.html"/></navPoint>
+<navPoint id="navpoint-4" playOrder="4"><navLabel><text>Copyright Page</text></navLabel><content src="03_copyright.html"/></navPoint>
+<navPoint id="navpoint-5" playOrder="5"><navLabel><text>Dedication</text></navLabel><content src="04_dedication.html"/></navPoint>
+<navPoint id="navpoint-6" playOrder="6"><navLabel><text>Contents</text></navLabel><content src="06_toc.html"/></navPoint>
+<navPoint id="navpoint-7" playOrder="7"><navLabel><text>List of illustrations</text></navLabel><content src="08_Illustrations.html"/></navPoint>
+<navPoint id="navpoint-8" playOrder="8"><navLabel><text>Foreword by Mark Turin</text></navLabel><content src="09_Foreword.html"/></navPoint>
+<navPoint id="navpoint-9" playOrder="9"><navLabel><text>Preface to the First Edition</text></navLabel><content src="10_Preface.html"/></navPoint>
+<navPoint id="navpoint-10" playOrder="10"><navLabel><text>Preface to the Second Edition</text></navLabel><content src="11_Preface_2.html"/></navPoint>
+<navPoint id="navpoint-11" playOrder="11"><navLabel><text>Acknowledgments</text></navLabel><content src="12_acknowledgement.html"/></navPoint>
+<navPoint id="navpoint-12" playOrder="12"><navLabel><text>Acknowledgments: Addendum 2012</text></navLabel><content src="07_Acknowledgements_Addendum.html"/></navPoint>
+<navPoint id="navpoint-13" playOrder="13"><navLabel><text>Abbreviations</text></navLabel><content src="13_Abbreviations.html"/></navPoint>
+<navPoint id="navpoint-14" playOrder="14"><navLabel><text>Notes on Sources and References</text></navLabel><content src="14_note.html"/></navPoint>
+<navPoint id="navpoint-15" playOrder="15"><navLabel><text>I. Introduction</text></navLabel><content src="15_part01.html"/>
+<navPoint id="navpoint-16" playOrder="16"><navLabel><text>1. The &#x2018;oral&#x2019; nature of African unwritten literature</text></navLabel><content src="16_chapter01.html"/>
+<navPoint id="navpoint-17" playOrder="17"><navLabel><text>The significance of performance in actualization, transmission,  and composition. Audience and occasion. Implications for the study of oral literature. Oral art as literature.</text></navLabel><content src="16_chapter01.html#c01-001"/></navPoint></navPoint>
+<navPoint id="navpoint-18" playOrder="18"><navLabel><text>2. The perception of African oral literature</text></navLabel><content src="17_chapter02.html"/>
+<navPoint id="navpoint-19" playOrder="19"><navLabel><text>Nineteenth-century approaches and collections. Speculations and neglect in the twentieth century. Recent trends in African studies and the revival of interest in oral literature.</text></navLabel><content src="17_chapter02.html#c02-001"/></navPoint></navPoint>
+<navPoint id="navpoint-20" playOrder="20"><navLabel><text>3. The social, linguistic, and literary background</text></navLabel><content src="18_chapter03.html"/>
+<navPoint id="navpoint-21" playOrder="21"><navLabel><text>Social and literary background. The linguistic basis&#x2014;the example of Bantu. Some literary tools. Presentation of the material. The literary complexity of African cultures.</text></navLabel><content src="18_chapter03.html#c03-001"/></navPoint></navPoint></navPoint>
+<navPoint id="navpoint-22" playOrder="22"><navLabel><text>II. Poetry</text></navLabel><content src="19_part02.html"/>
+<navPoint id="navpoint-23" playOrder="23"><navLabel><text>4. Poetry and patronage</text></navLabel><content src="20_chapter04.html"/>
+<navPoint id="navpoint-24" playOrder="24"><navLabel><text>Variations in the poet&#x2019;s position. Court poets. Religious patronage. Free-lance and wandering poets. Part-time poets. A note on &#x2018;epic&#x2019;.</text></navLabel><content src="20_chapter04.html#c04-001"/></navPoint></navPoint>
+<navPoint id="navpoint-25" playOrder="25"><navLabel><text>5. Panegyric</text></navLabel><content src="21_chapter05.html"/>
+<navPoint id="navpoint-26" playOrder="26"><navLabel><text>Introductory: nature and distribution; composers and reciters; occasions. Southern Bantu praise poetry: form and style; occasions and delivery; traditional and contemporary significance.</text></navLabel><content src="21_chapter05.html#c05-001"/></navPoint></navPoint>
+<navPoint id="navpoint-27" playOrder="27"><navLabel><text>6. Elegiac poetry</text></navLabel><content src="22_chapter06.html"/>
+<navPoint id="navpoint-28" playOrder="28"><navLabel><text>General and introductory. Akan funeral dirges: content and themes; structure, style, and delivery; occasions and functions; the dirge as literature.</text></navLabel><content src="22_chapter06.html#c06-001"/></navPoint></navPoint>
+<navPoint id="navpoint-29" playOrder="29"><navLabel><text>7. Religious poetry</text></navLabel><content src="23_chapter07.html"/>
+<navPoint id="navpoint-30" playOrder="30"><navLabel><text>Introductory. Didactic and narrative religious poetry and the Islamic tradition; the Swahili tenzi. Hymns, prayers, and incantations: general survey; the Fante Methodist lyric. Mantic poetry: Sotho divining praises; odu Ifa (Yoruba).</text></navLabel><content src="23_chapter07.html#c07-001"/></navPoint></navPoint>
+<navPoint id="navpoint-31" playOrder="31"><navLabel><text>8. Special purpose poetry&#x2014;war, hunting, and work</text></navLabel><content src="24_chapter08.html"/>
+<navPoint id="navpoint-32" playOrder="32"><navLabel><text>Military poetry: Nguni; Akan. Hunting poetry: Yoruba ijala; Ambo hunters&#x2019; songs. Work songs.</text></navLabel><content src="24_chapter08.html#c08-001"/></navPoint></navPoint>
+<navPoint id="navpoint-33" playOrder="33"><navLabel><text>9. Lyric</text></navLabel><content src="25_chapter09.html"/>
+<navPoint id="navpoint-34" playOrder="34"><navLabel><text>Occasions. Subject-matter. Form. Composition.</text></navLabel><content src="25_chapter09.html#c09-001"/></navPoint></navPoint>
+<navPoint id="navpoint-35" playOrder="35"><navLabel><text>10. Topical and political songs</text></navLabel><content src="26_chapter10.html"/>
+<navPoint id="navpoint-36" playOrder="36"><navLabel><text>Topical and local poetry. Songs of political parties and movements: Mau Mau hymns; Guinea R.D.A. songs; Northern Rhodesian party songs.</text></navLabel><content src="26_chapter10.html#c10-001"/></navPoint></navPoint>
+<navPoint id="navpoint-37" playOrder="37"><navLabel><text>11. Children&#x2019;s songs and rhymes</text></navLabel><content src="27_chapter11.html"/>
+<navPoint id="navpoint-38" playOrder="38"><navLabel><text>Lullabies and nursery rhymes. Children&#x2019;s games and verses; Southern Sudanese action songs.</text></navLabel><content src="27_chapter11.html#c11-001"/></navPoint></navPoint></navPoint>
+<navPoint id="navpoint-39" playOrder="39"><navLabel><text>III. Prose</text></navLabel><content src="28_part03.html"/>
+<navPoint id="navpoint-40" playOrder="40"><navLabel><text>12. Prose narratives I. Problems and theories</text></navLabel><content src="29_chapter12.html"/>
+<navPoint id="navpoint-41" playOrder="41"><navLabel><text>Introductory. Evolutionist interpretations. Historical-geographical school. Classification and typologies. Structural-functional approach. Conclusion.</text></navLabel><content src="29_chapter12.html#c12-001"/></navPoint></navPoint>
+<navPoint id="navpoint-42" playOrder="42"><navLabel><text>13. Prose narratives II.Content and form.</text></navLabel><content src="30_chapter13.html"/>
+<navPoint id="navpoint-43" playOrder="43"><navLabel><text>What is known to date: content and plot; main characters. Types of tales: animal stories; stories about people; &#x2018;myths&#x2019;; &#x2018;legends&#x2019; and historical narratives. What demands further study: occasions; role of narrators; purpose and function; literary conventions; performance; originality and authorship. Conclusion.</text></navLabel><content src="30_chapter13.html#c13-001"/></navPoint></navPoint>
+<navPoint id="navpoint-44" playOrder="44"><navLabel><text>14. Proverbs</text></navLabel><content src="31_chapter14.html"/>
+<navPoint id="navpoint-45" playOrder="45"><navLabel><text>The significance and concept of the proverb. Form and style. Content. Occasions and functions. Specific examples: Jabo; Zulu; Azande. Conclusion.</text></navLabel><content src="31_chapter14.html#c14-001"/></navPoint></navPoint>
+<navPoint id="navpoint-46" playOrder="46"><navLabel><text>15. Riddles</text></navLabel><content src="32_chapter15.html"/>
+<navPoint id="navpoint-47" playOrder="47"><navLabel><text>Riddles and related forms. Style and content. Occasions and uses. Conclusion.</text></navLabel><content src="32_chapter15.html#c15-001"/></navPoint></navPoint>
+<navPoint id="navpoint-48" playOrder="48"><navLabel><text>16. Oratory, formal speaking, and other stylized forms</text></navLabel><content src="33_chapter16.html"/>
+<navPoint id="navpoint-49" playOrder="49"><navLabel><text>Oratory and rhetoric: Burundi; Limba. Prayers, curses, etc. Word play and verbal formulas. Names.</text></navLabel><content src="33_chapter16.html#c16-001"/></navPoint></navPoint></navPoint>
+<navPoint id="navpoint-50" playOrder="50"><navLabel><text>IV. Some Special Forms</text></navLabel><content src="34_part04.html"/>
+<navPoint id="navpoint-51" playOrder="51"><navLabel><text>17. Drum language and literature</text></navLabel><content src="35_chapter17.html"/>
+<navPoint id="navpoint-52" playOrder="52"><navLabel><text>Introductory&#x2014;the principle of drum language. Examples of drum literature: announcements and calls; names; proverbs; poetry. Conclusion.</text></navLabel><content src="35_chapter17.html#c17-001"/></navPoint></navPoint>
+<navPoint id="navpoint-53" playOrder="53"><navLabel><text>18. Drama</text></navLabel><content src="36_chapter18.html"/>
+<navPoint id="navpoint-54" playOrder="54"><navLabel><text>Introductory. Some minor examples: Bushman &#x2018;plays&#x2019;; West African puppet shows. Mande comedies. West African masquerades: South-Eastern Nigeria; Kalabari. Conclusion.</text></navLabel><content src="36_chapter18.html#c18-001"/></navPoint></navPoint></navPoint>
+<navPoint id="navpoint-55" playOrder="55"><navLabel><text>Conclusion</text></navLabel><content src="37_conclusion.html"/></navPoint>
+<navPoint id="navpoint-56" playOrder="56"><navLabel><text>Maps Showing Peoples Mentioned In the Text</text></navLabel><content src="38_source.html"/></navPoint>
+<navPoint id="navpoint-57" playOrder="57"><navLabel><text>Bibliography</text></navLabel><content src="39_Bibliography.html"/></navPoint>
+<navPoint id="navpoint-58" playOrder="58"><navLabel><text>Index</text></navLabel><content src="40_Index.html"/></navPoint>
+<navPoint id="navpoint-59" playOrder="59"><navLabel><text>Ungluers</text></navLabel><content src="backma.html"/></navPoint>
+<navPoint id="navpoint-60" playOrder="60"><navLabel><text>Back Cover</text></navLabel><content src="backcover.html"/></navPoint>
+</navMap>
+</ncx>

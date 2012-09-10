@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Oral Literature in Africa</dc:title>
+<dc:language>en</dc:language>
+<dc:identifier id="uid">691515624</dc:identifier>
+<dc:creator>Ruth Finnegan</dc:creator>
+<dc:contributor>calibre (0.8.65) [http://calibre-ebook.com]</dc:contributor>
+<dc:publisher>Open Book Publishers CIC Ltd.</dc:publisher>
+<dc:date opf:event="publication">2012-09-05T15:16:56+00:00</dc:date>
+<dc:rights>Creative Commons 3.0</dc:rights>
+<meta name="EmbeddedCover" content="images/image00022.jpeg" />
+<meta name="output encoding" content="utf-8" />
+<!-- The following meta tags are just for information and will be ignored by mobigen/kindlegen. -->
+<meta name="Cover ThumbNail Image" content="images/image00023.jpeg" />
+<meta name="ASIN" content="30d445f2-0758-4992-9881-cf8a256e4bdd" />
+<meta name="Fake Cover" content="0" />
+<meta name="Creator Software" content="201" />
+<meta name="Creator Major Version" content="1" />
+<meta name="Creator Minor Version" content="2" />
+<meta name="Creator Build Number" content="33307" />
+<meta name="CDE Type" content="EBOK" />
+<meta name="Updated Title" content="Oral Literature in Africa" />
+<meta name="524 (hex)" content="656e" />
+<meta name="StartOffset" content="100" />
+<meta name="K8(131)_Unidentified_Count" content="0" />
+</metadata>
+<manifest>
+<item id="item0" media-type="text/x-oeb1-document" href="Oral_Literature_in_Africa.html" />
+<item id="ncx" media-type="application/x-dtbncx+xml" href="Oral_Literature_in_Africa.ncx"></item>
+</manifest>
+<spine toc="ncx">
+<itemref idref="item0"/>
+</spine>
+<tours>
+</tours>
+<guide>
+<reference type="toc" title="Contents" href="Oral_Literature_in_Africa.html#filepos9429" />
+</guide>
+</package>

@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<head>
+<meta content="691515624" name="dtb:uid"/>
+<meta content="1" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Oral Literature in Africa</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>Half-title Page</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos100"/>
+    </navPoint>
+    <navPoint id="np_2" playOrder="2">
+    <navLabel>
+    <text>Title Page</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos555"/>
+    </navPoint>
+    <navPoint id="np_3" playOrder="3">
+    <navLabel>
+    <text>Copyright Page</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos970"/>
+    </navPoint>
+    <navPoint id="np_4" playOrder="4">
+    <navLabel>
+    <text>Dedication</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos4848"/>
+    </navPoint>
+    <navPoint id="np_5" playOrder="5">
+    <navLabel>
+    <text>Contents</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos9429"/>
+    </navPoint>
+    <navPoint id="np_6" playOrder="6">
+    <navLabel>
+    <text>List of illustrations</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos22169"/>
+    </navPoint>
+    <navPoint id="np_7" playOrder="7">
+    <navLabel>
+    <text>Foreword by Mark Turin</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos32844"/>
+    </navPoint>
+    <navPoint id="np_8" playOrder="8">
+    <navLabel>
+    <text>Preface to the First Edition</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos42940"/>
+    </navPoint>
+    <navPoint id="np_9" playOrder="9">
+    <navLabel>
+    <text>Preface to the Second Edition</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos46332"/>
+    </navPoint>
+    <navPoint id="np_10" playOrder="10">
+    <navLabel>
+    <text>Acknowledgments</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos74287"/>
+    </navPoint>
+    <navPoint id="np_11" playOrder="11">
+    <navLabel>
+    <text>Acknowledgments: Addendum 2012</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos81831"/>
+    </navPoint>
+    <navPoint id="np_12" playOrder="12">
+    <navLabel>
+    <text>Abbreviations</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos83628"/>
+    </navPoint>
+    <navPoint id="np_13" playOrder="13">
+    <navLabel>
+    <text>Notes on Sources and References</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos94593"/>
+    </navPoint>
+    <navPoint id="np_14" playOrder="14">
+    <navLabel>
+    <text>I. Introduction</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos96836"/>
+    </navPoint>
+    <navPoint id="np_15" playOrder="15">
+    <navLabel>
+    <text>1. The ‘oral’ nature of African unwritten literature</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos96943"/>
+    </navPoint>
+    <navPoint id="np_16" playOrder="16">
+    <navLabel>
+    <text>The significance of performance in actualization, transmission, and composition. Audience and occasion. Implications for the study of oral literature. Oral art as literature.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos97105"/>
+    </navPoint>
+    <navPoint id="np_17" playOrder="17">
+    <navLabel>
+    <text>2. The perception of African oral literature</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos169032"/>
+    </navPoint>
+    <navPoint id="np_18" playOrder="18">
+    <navLabel>
+    <text>Nineteenth-century approaches and collections. Speculations and neglect in the twentieth century. Recent trends in African studies and the revival of interest in oral literature.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos169182"/>
+    </navPoint>
+    <navPoint id="np_19" playOrder="19">
+    <navLabel>
+    <text>3. The social, linguistic, and literary background</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos241875"/>
+    </navPoint>
+    <navPoint id="np_20" playOrder="20">
+    <navLabel>
+    <text>Social and literary background. The linguistic basis—the example of Bantu. Some literary tools. Presentation of the material. The literary complexity of African cultures.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos242031"/>
+    </navPoint>
+    <navPoint id="np_21" playOrder="21">
+    <navLabel>
+    <text>II. Poetry</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos337724"/>
+    </navPoint>
+    <navPoint id="np_22" playOrder="22">
+    <navLabel>
+    <text>4. Poetry and patronage</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos337819"/>
+    </navPoint>
+    <navPoint id="np_23" playOrder="23">
+    <navLabel>
+    <text>Variations in the poet’s position. Court poets. Religious patronage. Free-lance and wandering poets. Part-time poets. A note on ‘epic’.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos338050"/>
+    </navPoint>
+    <navPoint id="np_24" playOrder="24">
+    <navLabel>
+    <text>5. Panegyric</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos428043"/>
+    </navPoint>
+    <navPoint id="np_25" playOrder="25">
+    <navLabel>
+    <text>Introductory: nature and distribution; composers and reciters; occasions. Southern Bantu praise poetry: form and style; occasions and delivery; traditional and contemporary significance.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos428161"/>
+    </navPoint>
+    <navPoint id="np_26" playOrder="26">
+    <navLabel>
+    <text>6. Elegiac poetry</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos551439"/>
+    </navPoint>
+    <navPoint id="np_27" playOrder="27">
+    <navLabel>
+    <text>General and introductory. Akan funeral dirges: content and themes; structure, style, and delivery; occasions and functions; the dirge as literature.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos551562"/>
+    </navPoint>
+    <navPoint id="np_28" playOrder="28">
+    <navLabel>
+    <text>7. Religious poetry</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos616500"/>
+    </navPoint>
+    <navPoint id="np_29" playOrder="29">
+    <navLabel>
+    <text>Introductory. Didactic and narrative religious poetry and the Islamic tradition; the Swahili tenzi. Hymns, prayers, and incantations: general survey; the Fante Methodist lyric. Mantic poetry: Sotho divining praises; odu Ifa (Yoruba).</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos616628"/>
+    </navPoint>
+    <navPoint id="np_30" playOrder="30">
+    <navLabel>
+    <text>8. Special purpose poetry—war, hunting, and work</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos766719"/>
+    </navPoint>
+    <navPoint id="np_31" playOrder="31">
+    <navLabel>
+    <text>Military poetry: Nguni; Akan. Hunting poetry: Yoruba ijala; Ambo hunters’ songs. Work songs.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos766878"/>
+    </navPoint>
+    <navPoint id="np_32" playOrder="32">
+    <navLabel>
+    <text>9. Lyric</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos894755"/>
+    </navPoint>
+    <navPoint id="np_33" playOrder="33">
+    <navLabel>
+    <text>Occasions. Subject-matter. Form. Composition.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos894869"/>
+    </navPoint>
+    <navPoint id="np_34" playOrder="34">
+    <navLabel>
+    <text>10. Topical and political songs</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1007637"/>
+    </navPoint>
+    <navPoint id="np_35" playOrder="35">
+    <navLabel>
+    <text>Topical and local poetry. Songs of political parties and movements: Mau Mau hymns; Guinea R.D.A. songs; Northern Rhodesian party songs.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1007774"/>
+    </navPoint>
+    <navPoint id="np_36" playOrder="36">
+    <navLabel>
+    <text>11. Children’s songs and rhymes</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1098757"/>
+    </navPoint>
+    <navPoint id="np_37" playOrder="37">
+    <navLabel>
+    <text>Lullabies and nursery rhymes. Children’s games and verses; Southern Sudanese action songs.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1098899"/>
+    </navPoint>
+    <navPoint id="np_38" playOrder="38">
+    <navLabel>
+    <text>III. Prose</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1162408"/>
+    </navPoint>
+    <navPoint id="np_39" playOrder="39">
+    <navLabel>
+    <text>12. Prose narratives I. Problems and theories</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1162503"/>
+    </navPoint>
+    <navPoint id="np_40" playOrder="40">
+    <navLabel>
+    <text>Introductory. Evolutionist interpretations. Historical-geographical school. Classification and typologies. Structural-functional approach. Conclusion.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1162654"/>
+    </navPoint>
+    <navPoint id="np_41" playOrder="41">
+    <navLabel>
+    <text>13. Prose narratives II.Content and form.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1222484"/>
+    </navPoint>
+    <navPoint id="np_42" playOrder="42">
+    <navLabel>
+    <text>What is known to date: content and plot; main characters. Types of tales: animal stories; stories about people; ‘myths’; ‘legends’ and historical narratives. What demands further study: occasions; role of narrators; purpose and function; literary conventions; performance; originality and authorship. Conclusion.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1222631"/>
+    </navPoint>
+    <navPoint id="np_43" playOrder="43">
+    <navLabel>
+    <text>14. Proverbs</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1398997"/>
+    </navPoint>
+    <navPoint id="np_44" playOrder="44">
+    <navLabel>
+    <text>The significance and concept of the proverb. Form and style. Content. Occasions and functions. Specific examples: Jabo; Zulu; Azande. Conclusion.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1399115"/>
+    </navPoint>
+    <navPoint id="np_45" playOrder="45">
+    <navLabel>
+    <text>15. Riddles</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1496580"/>
+    </navPoint>
+    <navPoint id="np_46" playOrder="46">
+    <navLabel>
+    <text>Riddles and related forms. Style and content. Occasions and uses. Conclusion.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1496697"/>
+    </navPoint>
+    <navPoint id="np_47" playOrder="47">
+    <navLabel>
+    <text>16. Oratory, formal speaking, and other stylized forms</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1549502"/>
+    </navPoint>
+    <navPoint id="np_48" playOrder="48">
+    <navLabel>
+    <text>Oratory and rhetoric: Burundi; Limba. Prayers, curses, etc. Word play and verbal formulas. Names.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1549662"/>
+    </navPoint>
+    <navPoint id="np_49" playOrder="49">
+    <navLabel>
+    <text>IV. Some Special Forms</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1671259"/>
+    </navPoint>
+    <navPoint id="np_50" playOrder="50">
+    <navLabel>
+    <text>17. Drum language and literature</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1671366"/>
+    </navPoint>
+    <navPoint id="np_51" playOrder="51">
+    <navLabel>
+    <text>Introductory—the principle of drum language. Examples of drum literature: announcements and calls; names; proverbs; poetry. Conclusion.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1671612"/>
+    </navPoint>
+    <navPoint id="np_52" playOrder="52">
+    <navLabel>
+    <text>18. Drama</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1745764"/>
+    </navPoint>
+    <navPoint id="np_53" playOrder="53">
+    <navLabel>
+    <text>Introductory. Some minor examples: Bushman ‘plays’; West African puppet shows. Mande comedies. West African masquerades: South-Eastern Nigeria; Kalabari. Conclusion.</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1745879"/>
+    </navPoint>
+    <navPoint id="np_54" playOrder="54">
+    <navLabel>
+    <text>Conclusion</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1798089"/>
+    </navPoint>
+    <navPoint id="np_55" playOrder="55">
+    <navLabel>
+    <text>Maps Showing Peoples Mentioned In the Text</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1808781"/>
+    </navPoint>
+    <navPoint id="np_56" playOrder="56">
+    <navLabel>
+    <text>Bibliography</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1809101"/>
+    </navPoint>
+    <navPoint id="np_57" playOrder="57">
+    <navLabel>
+    <text>Index</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos1954247"/>
+    </navPoint>
+    <navPoint id="np_58" playOrder="58">
+    <navLabel>
+    <text>Ungluers</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos2393871"/>
+    </navPoint>
+    <navPoint id="np_59" playOrder="59">
+    <navLabel>
+    <text>Back Cover</text>
+    </navLabel>
+    <content src="Oral_Literature_in_Africa.html#filepos2404872"/>
+    </navPoint>
+  </navMap>
+</ncx>
